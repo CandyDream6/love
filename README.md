@@ -8,12 +8,12 @@
 function.js文件下第96行 date = '2018-07-26 20:29:22'，修改这个时间就行
 ```
 
-  ## Star History
-  <a href="https://star-history.com/#CandyDream6/love&Date">
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CandyDream6/love&type=Date&theme=dark" />
-     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CandyDream6/love&type=Date" />
-     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CandyDream6/love&type=Date" />
-   </picture>
-  </a>
+## Star History
+<a href="https://star-history.com/#CandyDream6/love&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CandyDream6/love&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CandyDream6/love&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CandyDream6/love&type=Date" />
+ </picture>
+</a>
 
