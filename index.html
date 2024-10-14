@@ -10,15 +10,14 @@
 <style type="text/css">
 @font-face {
 	font-family: digit;
-	src: url('https://blog-1305951218.cos.ap-shanghai.myqcloud.com/love/ttf/digital-7_mono.ttf') format("truetype");
+	src: url('./ttf/digital-7_mono.ttf') format("truetype");
 }
 </style>
-<link rel="shortcut icon" href="https://blog-1305951218.cos.ap-shanghai.myqcloud.com/love/icon/aini.ico">
-<link href="https://blog-1305951218.cos.ap-shanghai.myqcloud.com/love/css/default.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="https://blog-1305951218.cos.ap-shanghai.myqcloud.com/love/js/jquery.js"></script>
-<script type="text/javascript" src="https://blog-1305951218.cos.ap-shanghai.myqcloud.com/love/js/garden.js"></script>
-<script type="text/javascript" src="https://blog-1305951218.cos.ap-shanghai.myqcloud.com/love/js/functions.js"></script>
-<!--<script src="https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/js/wangZhanBeiJingYinYue.js"></script>-->
+<link rel="shortcut icon" href="./icon/aini.ico">
+<link href="./css/default.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="./js/jquery.js"></script>
+<script type="text/javascript" src="./js/garden.js"></script>
+<script type="text/javascript" src="./js/functions.js"></script>
 
 
 </head>
@@ -35,7 +34,6 @@
 					<div id="elapseClock"></div>
 				</div>
 				<div id="loveu">
-<!--					boy~马啸  girl~余婷<br/>-->
 					boy~糖果  girl~？？<br/>
 				</div>
 			</div>
@@ -80,8 +78,10 @@ if (!document.createElement('canvas').getContext) {
 	$("#code").typewriter();
 }
 </script>
-</body>
 <div>
-	<audio loop autoplay id="music"></audio>
+	<audio loop autoplay id="music">
+		<script type="text/javascript" src="./js/wangZhanBeiJingYinYue.js"></script>
+	</audio>
 </div>
+</body>
 </html>
