@@ -2,7 +2,7 @@
   <img  width="100%" src="https://cdn.jsdelivr.net/gh/CandyDream6/jsdelivr/github/image/love.jpg">
 
 
-## 自定义恋爱时间
+## 🔨自定义恋爱时间，可以vercel直接部署
 
 ```
 ./js/function.js文件下第96行 date = '1996-05-05 00:00:00'，修改这个时间就行
