@@ -1,0 +1,19 @@
+﻿body{margin:0;padding:0;background:linear-gradient(90deg, rgba(255,25,0,0.13489145658263302) 0%, rgba(250,100,0,0.1881127450980392) 17%, rgba(249,255,0,0.1741071428571429) 34%, rgba(5,254,0,0.196516106442577) 53%, rgba(0,235,249,0.165703781512605) 69%, rgba(0,34,255,0.16290266106442575) 85%, rgba(246,0,241,0.14049369747899154) 100%);;font-size:12px;overflow:auto}
+#mainDiv{width:100%;height:100%}
+#loveHeart{float:left;width:670px;height:625px}
+#garden{width:100%;height:100%}
+#elapseClock{text-align:right;font-size:18px;margin-top:10px;margin-bottom:10px}
+#words{font-family:"sans-serif";width:500px;font-size:24px;color:#666}
+#messages{display:none}
+#elapseClock .digit{font-family:"digit";font-size:36px}
+#loveu{padding:5px;font-size:22px;margin-top:80px;text-align:center;display:none}
+#loveu .signature{margin-top:10px;font-size:20px;font-style:italic}
+#clickSound{display:none}
+#code{float:left;width:440px;height:400px;color:#333;font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";font-size:12px}
+#code .string{color:#2a36ff}
+#code .keyword{color:#7f0055;font-weight:bold}
+#code .placeholder{margin-left:15px}#code .space{margin-left:7px}
+#code .comments{color:#3f7f5f}
+#copyright{margin-top:10px;text-align:center;width:100%;color:#666}
+#errorMsg{width:100%;text-align:center;font-size:24px;position:absolute;top:100px;left:0}
+#copyright a{color:#666}
