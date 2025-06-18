@@ -6,6 +6,6 @@
 
 ## 🔨自定义恋爱时间，可以<a href="https://vercel.com" target="blank">vercel</a>直接部署
 
-```
-./js/function.js文件下第96行 date = '1996-05-05 00:00:00'，修改这个时间就行
+``` 
+./js/function.js文件下第96行 date = '1996-05-05 00:00:00'，修改这个时间就行 
 ```
