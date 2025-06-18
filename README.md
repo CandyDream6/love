@@ -1,7 +1,7 @@
 
-# <a href="https://love.xiaomagege.com" target="_blank">👀记录爱情的时间(点击查看demo)</a>
+# <a href="https://love.tgmeng.com" target="_blank">👀记录爱情的时间(点击查看demo)</a>
 
-  <img  width="100%" src="https://cdn.jsdelivr.net/gh/xiaomagege6/jsdelivr/github/image/love.jpg">
+  <img  width="100%" src="https://cdn.jsdelivr.net/gh/CandyDream6/jsdelivr/github/image/love.jpg">
 
 
 ## 🔨自定义恋爱时间，可以<a href="https://vercel.com" target="blank">vercel</a>直接部署
